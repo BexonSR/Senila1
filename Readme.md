@@ -26,11 +26,11 @@
                                             !J^GB?^B7:G5:                                           
                                             
                                             
-     ppppppppppp       uu         uu    nnn        nn
-     pp        pp      uu         uu    nn nn      nn
-     pp         pp     uu         uu    nn  nn     nn
-     pp        pp      uu         uu    nn   nn    nn
-     ppppppppppp       uu         uu    nn    nn   nn
-     pp                uu         uu    nn     nn  nn
-     pp                 uu       uu     nn      nn nn
-     pp                  uuuuuuuu       nnn       nnn
+     ppppppppppp       uu         uu    nnn        nn   iiiiiiiiiiii  ssssssssss
+     pp        pp      uu         uu    nn nn      nn        ii       ss
+     pp         pp     uu         uu    nn  nn     nn        ii       ss
+     pp        pp      uu         uu    nn   nn    nn        ii       ssssssssss
+     ppppppppppp       uu         uu    nn    nn   nn        ii       ssssssssss
+     pp                uu         uu    nn     nn  nn        ii               ss
+     pp                 uu       uu     nn      nn nn        ii               ss
+     pp                  uuuuuuuu       nnn       nnn    iiiiiiiiiiii ssssssssss
